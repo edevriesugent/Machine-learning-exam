@@ -13,6 +13,7 @@
 - Duplicate removal?
 # Model
 - The model use the clean data from the train_clean and score_clean files.
+- These files expected in the same folder.
 - The model is ready and trained based on the system design figure.
 - scored_applicants is the model output result file.
   
