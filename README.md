@@ -11,3 +11,7 @@
 - Imputation - selected constant, or predicted values?
 - Min-max normalization?
 - Duplicate removal?
+# Model
+- The model use the clean data from the train_clean and score_clean files.
+- The model is ready and trained based on the system design figure.
+  
